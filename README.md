@@ -23,3 +23,7 @@ JK001,Data1_L001_R1_001.fastq.gz,forward
 ### Known Limitations
 
 Additional metadata isn't currently supported. That is coming in future versions.
+
+### Credit
+Initial version written by @kstiers.
+Updated by @lcoghill.
