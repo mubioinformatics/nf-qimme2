@@ -10,8 +10,9 @@ In short, ***you are mostly on your own with this, so enjoy and hack about, but 
 ## Use
 
 #### Requirements
-- Nextflow. *version 21.0+*
-- QIIME2 formatted classifiers. We built one ours using the naive-bayes model, the 16S classifier is based on the Silva (v.138) 99% reference database, targeted for PE250 reads. The ITS classifier is based on the Unite (v.10.05.2021) 99% reference database.
+- Nextflow - tested with version 21.0+
+- QIIME2 - tested with version (2021.8.0) 
+- QIIME2 formatted classifiers - We built one ours using the naive-bayes model, the 16S classifier is based on the Silva (v.138) 99% reference database, targeted for PE250 reads. The ITS classifier is based on the Unite (v.10.05.2021) 99% reference database.
 
 You will need to create a **Manifest File**, which is just a simple csv file, with your data using the format below:
 
